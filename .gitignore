@@ -1,0 +1,9 @@
+*.gb
+*.gbc
+*.sav
+*.state
+*.ss1
+*.nsf
+*.mid
+*.uge
+__pycache__/
