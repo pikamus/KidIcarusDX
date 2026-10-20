@@ -1,6 +1,6 @@
 {
   "project": "Kid Icarus DX",
-  "version": "v0.1.0-preview",
+  "version": "v0.9",
   "date": "2026-10-20",
   "status": "preview",
   "original": {
@@ -10,7 +10,7 @@
     "sha256": "92c1fbf422abb8f09ca7fdbb563d1284108cc042e60e1222422986d9a59f9d97"
   },
   "patch": {
-    "file": "Kid-Icarus-DX-v0.1.0-preview.ips",
+    "file": "Kid-Icarus-DX-v0.9.ips",
     "bytes": 400899,
     "sha256": "cfaf50059fe3ed0a03d5502f2fb3715cbab7a00a43b83314f08115754aa70ded"
   },

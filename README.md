@@ -4,7 +4,7 @@
 
 Stage and room palettes, colored sprites and menus, optional NES music, and a few quality-of-life options—all in a patched ROM that uses the Game Boy Color's own color hardware.
 
-**[Download the IPS patch](https://github.com/pikamus/KidIcarusDX/releases/download/v0.1.0-preview/Kid-Icarus-DX-v0.1.0-preview.ips)** · **[Release notes](https://github.com/pikamus/KidIcarusDX/releases/tag/v0.1.0-preview)** · **[Patching guide](PATCHING.md)**
+**[Download the IPS patch](https://github.com/pikamus/KidIcarusDX/releases/download/v0.9/Kid-Icarus-DX-v0.9.ips)** · **[Release notes](https://github.com/pikamus/KidIcarusDX/releases/tag/v0.9)** · **[Patching guide](PATCHING.md)**
 
 <p align="center">
   <img src="images/title.png" alt="Kid Icarus DX title screen with colored logo, green stonework and an Options menu" width="480">
@@ -16,7 +16,7 @@ This fan project brings color to Pit's Game Boy adventure, with palettes for the
 
 The patch also updates scrolling transfers and sprite-palette handling for Game Boy Color, and adds an Options menu to the title screen.
 
-**Current release: v0.1.0-preview — October 20, 2026.** This is a public preview, with full playthrough and physical-hardware validation still in progress.
+**Current release: v0.9 — October 20, 2026.** This is a public preview, with full playthrough and physical-hardware validation still in progress.
 
 ## Screenshots
 

@@ -1,1 +1,1 @@
-cfaf50059fe3ed0a03d5502f2fb3715cbab7a00a43b83314f08115754aa70ded  Kid-Icarus-DX-v0.1.0-preview.ips
+cfaf50059fe3ed0a03d5502f2fb3715cbab7a00a43b83314f08115754aa70ded  Kid-Icarus-DX-v0.9.ips
