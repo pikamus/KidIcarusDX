@@ -2,9 +2,9 @@
 
 **A Game Boy Color colorization of _Kid Icarus: Of Myths and Monsters_.**
 
-Stage and room palettes, colored sprites and menus, optional NES music, and a few quality-of-life options—all in a patched ROM that uses the Game Boy Color's own color hardware.
+Full-color stages, enemies, bosses and inventory, optional NES music, and configurable quality-of-life options—all in a patched ROM that uses the Game Boy Color's own color hardware.
 
-**[Download the IPS patch](https://github.com/pikamus/KidIcarusDX/releases/download/v0.9/Kid-Icarus-DX-v0.9.ips)** · **[Release notes](https://github.com/pikamus/KidIcarusDX/releases/tag/v0.9)** · **[Patching guide](PATCHING.md)**
+**[Download the IPS patch](https://github.com/pikamus/KidIcarusDX/releases/download/v0.91/Kid-Icarus-DX-v0.91.ips)** · [Alternate download](https://raw.githubusercontent.com/pikamus/KidIcarusDX/main/patches/Kid-Icarus-DX-v0.91.ips) · **[Release notes](https://github.com/pikamus/KidIcarusDX/releases/tag/v0.91)** · **[Patching guide](PATCHING.md)**
 
 <p align="center">
   <img src="images/title.png" alt="Kid Icarus DX title screen with colored logo, green stonework and an Options menu" width="480">
@@ -16,7 +16,15 @@ This fan project brings color to Pit's Game Boy adventure, with palettes for the
 
 The patch also updates scrolling transfers and sprite-palette handling for Game Boy Color, and adds an Options menu to the title screen.
 
-**Current release: v0.9 — October 20, 2026.** This is a public preview, with full playthrough and physical-hardware validation still in progress.
+**Current release: v0.91 — October 21, 2026.** This is a public preview, with full playthrough and physical-hardware validation still in progress.
+
+## New in 0.91
+
+- Updated colorization from the latest saved project, including pause/inventory items, weapons, treasures and unopened packages.
+- New inventory and treasure-package screenshots below.
+- The IPS download, patching guide and checksums now identify version 0.91. [Version 0.9](https://github.com/pikamus/KidIcarusDX/releases/tag/v0.9) remains available.
+
+The Studio previews used to prepare this release were also corrected: inventory icons use the proper graphics, the fortress map matches the game, and opened treasures and unopened packages have dedicated preview views.
 
 ## Screenshots
 
@@ -27,6 +35,10 @@ The patch also updates scrolling transfers and sprite-palette handling for Game 
 | Fortress | Sky Palace | Title options |
 | --- | --- | --- |
 | ![Fortress](images/fortress.png) | ![Sky Palace](images/sky-palace.png) | ![Options menu](images/options.png) |
+
+| Inventory and treasures | Unopened treasure packages |
+| --- | --- |
+| ![Colored pause inventory with all three treasures](images/inventory.png) | ![Colored pause inventory with unopened treasure packages](images/treasure-packages.png) |
 
 Screenshots are captured from this release with **Modern – Accurate** color correction. Appearance varies with the emulator, display and color profile.
 
@@ -65,7 +77,7 @@ See [PATCHING.md](PATCHING.md) for verification, save compatibility and troubles
 - Physical hardware and flash-cartridge compatibility have not yet been validated.
 - Original monochrome palette fades currently use fixed color palettes. Some dynamic background drawing and ending effects still need playthrough review.
 
-This build passed **76 Python tests and 16 JavaScript checks**, plus ROM header/checksum verification and an IPS round-trip check. Those checks do not replace a complete playthrough. Exact patch and ROM fingerprints are recorded in [release-manifest.json](release-manifest.json).
+This build passed **77 Python tests and 17 JavaScript checks**, plus ROM header/checksum verification and an IPS round-trip check. Those checks do not replace a complete playthrough. Exact patch and ROM fingerprints are recorded in [release-manifest.json](release-manifest.json).
 
 ## Feedback
 
