@@ -4,7 +4,7 @@
 
 Full-color stages, enemies, bosses and inventory, optional NES music, and configurable quality-of-life options—all in a patched ROM that uses the Game Boy Color's own color hardware.
 
-**[Download the IPS patch](https://github.com/pikamus/KidIcarusDX/releases/download/v0.91/Kid-Icarus-DX-v0.91.ips)** · [Alternate download](https://raw.githubusercontent.com/pikamus/KidIcarusDX/main/patches/Kid-Icarus-DX-v0.91.ips) · **[Release notes](https://github.com/pikamus/KidIcarusDX/releases/tag/v0.91)** · **[Patching guide](PATCHING.md)**
+**[Download the IPS patch](https://github.com/pikamus/KidIcarusDX/releases/download/v0.95/Kid-Icarus-DX-v0.95.ips)** · [Alternate download](https://raw.githubusercontent.com/pikamus/KidIcarusDX/main/patches/Kid-Icarus-DX-v0.95.ips) · **[Release notes](https://github.com/pikamus/KidIcarusDX/releases/tag/v0.95)** · **[Patching guide](PATCHING.md)**
 
 <p align="center">
   <img src="images/title.png" alt="Kid Icarus DX title screen with colored logo, green stonework and an Options menu" width="480">
@@ -16,13 +16,13 @@ This fan project brings color to Pit's Game Boy adventure, with palettes for the
 
 The patch also updates scrolling transfers and sprite-palette handling for Game Boy Color, and adds an Options menu to the title screen.
 
-**Current release: v0.91 — October 21, 2026.** This is a public preview, with full playthrough and physical-hardware validation still in progress.
+**Current release: v0.95 — October 22, 2026.** This is a public preview, with full playthrough and physical-hardware validation still in progress.
 
 ## New in 0.91
 
 - Updated colorization from the latest saved project, including pause/inventory items, weapons, treasures and unopened packages.
 - New inventory and treasure-package screenshots below.
-- The IPS download, patching guide and checksums now identify version 0.91. [Version 0.9](https://github.com/pikamus/KidIcarusDX/releases/tag/v0.9) remains available.
+- The IPS download, patching guide and checksums now identify version 0.95. [Version 0.9](https://github.com/pikamus/KidIcarusDX/releases/tag/v0.9) remains available.
 
 The Studio previews used to prepare this release were also corrected: inventory icons use the proper graphics, the fortress map matches the game, and opened treasures and unopened packages have dedicated preview views.
 

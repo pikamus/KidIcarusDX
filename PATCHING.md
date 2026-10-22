@@ -19,7 +19,7 @@ Get-FileHash -Algorithm SHA256 -LiteralPath 'your-original-game.gb'
 
 ## Install
 
-1. Download `Kid-Icarus-DX-v0.91.ips` from the [preview release](https://github.com/pikamus/KidIcarusDX/releases/tag/v0.91).
+1. Download `Kid-Icarus-DX-v0.95.ips` from the [preview release](https://github.com/pikamus/KidIcarusDX/releases/tag/v0.95).
 2. In an IPS-compatible patcher, choose the original ROM and this patch.
 3. Write the result to a new file, such as `Kid Icarus DX.gbc`.
 4. Load that file in an emulator set to **Game Boy Color** mode.
