@@ -4,7 +4,7 @@
 
 Full-color stages, enemies, bosses and inventory, optional NES music, and configurable quality-of-life options—all in a patched ROM that uses the Game Boy Color's own color hardware.
 
-**[Download the IPS patch](https://github.com/pikamus/KidIcarusDX/releases/download/v0.95/Kid-Icarus-DX-v0.95.ips)** · [Alternate download](https://raw.githubusercontent.com/pikamus/KidIcarusDX/main/patches/Kid-Icarus-DX-v0.95.ips) · **[Release notes](https://github.com/pikamus/KidIcarusDX/releases/tag/v0.95)** · **[Patching guide](PATCHING.md)**
+**[Download the IPS patch](https://github.com/pikamus/KidIcarusDX/releases/download/v0.99/Kid-Icarus-DX-v0.99.ips)** · [Alternate download](https://raw.githubusercontent.com/pikamus/KidIcarusDX/main/patches/Kid-Icarus-DX-v0.99.ips) · **[Release notes](https://github.com/pikamus/KidIcarusDX/releases/tag/v0.99)** · **[Patching guide](PATCHING.md)**
 
 <p align="center">
   <img src="images/title.png" alt="Kid Icarus DX title screen with colored logo, green stonework and an Options menu" width="480">
@@ -16,15 +16,12 @@ This fan project brings color to Pit's Game Boy adventure, with palettes for the
 
 The patch also updates scrolling transfers and sprite-palette handling for Game Boy Color, and adds an Options menu to the title screen.
 
-**Current release: v0.95 — October 22, 2026.** This is a public preview, with full playthrough and physical-hardware validation still in progress.
+**Current release: v0.99 — October 23, 2026.** This is a public preview, with full playthrough and physical-hardware validation still in progress.
 
-## New in 0.91
+## New in 0.99
 
-- Updated colorization from the latest saved project, including pause/inventory items, weapons, treasures and unopened packages.
-- New inventory and treasure-package screenshots below.
-- The IPS download, patching guide and checksums now identify version 0.95. [Version 0.9](https://github.com/pikamus/KidIcarusDX/releases/tag/v0.9) remains available.
-
-The Studio previews used to prepare this release were also corrected: inventory icons use the proper graphics, the fortress map matches the game, and opened treasures and unopened packages have dedicated preview views.
+- Fixed some doorway colors.
+- Recolored World 3 based on feedback.
 
 ## Screenshots
 
@@ -77,7 +74,7 @@ See [PATCHING.md](PATCHING.md) for verification, save compatibility and troubles
 - Physical hardware and flash-cartridge compatibility have not yet been validated.
 - Original monochrome palette fades currently use fixed color palettes. Some dynamic background drawing and ending effects still need playthrough review.
 
-This build passed **77 Python tests and 17 JavaScript checks**, plus ROM header/checksum verification and an IPS round-trip check. Those checks do not replace a complete playthrough. Exact patch and ROM fingerprints are recorded in [release-manifest.json](release-manifest.json).
+The unchanged code passed **77 Python tests and 17 JavaScript checks**. ROM header/checksums and IPS reconstruction were verified again for this release. Those checks do not replace a complete playthrough. Exact patch and ROM fingerprints are recorded in [release-manifest.json](release-manifest.json).
 
 ## Feedback
 

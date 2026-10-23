@@ -1,7 +1,7 @@
 {
   "project": "Kid Icarus DX",
-  "version": "v0.95",
-  "date": "2026-10-22",
+  "version": "v0.99",
+  "date": "2026-10-23",
   "status": "preview",
   "original": {
     "game": "Kid Icarus: Of Myths and Monsters",
@@ -10,19 +10,19 @@
     "sha256": "92c1fbf422abb8f09ca7fdbb563d1284108cc042e60e1222422986d9a59f9d97"
   },
   "patch": {
-    "file": "Kid-Icarus-DX-v0.95.ips",
-    "bytes": 401061,
-    "sha256": "91954252d30b528048a69fe87c723758cd5f426f93a86c9bbc24922316d1a546"
+    "file": "Kid-Icarus-DX-v0.99.ips",
+    "bytes": 401091,
+    "sha256": "171a2b3525c315d74c72e35a6abe8d515c2804c9cb59f0d2ed8d09ef1c13753e"
   },
   "patchedRom": {
     "bytes": 524288,
-    "sha256": "e1323a530551c6abb1600b4c30437fa1839af856abb409f67da8d839afb2a436",
+    "sha256": "4aa16266616f962de2384e3a015e3f02c4483e749c4e3a263bccdfdd9c6bae97",
     "cgbOnly": true,
     "mapper": "MBC1",
     "batteryRamBytes": 8192
   },
   "validation": {
-    "checkedAt": "2026-10-22T10:44:34.115008+00:00",
+    "checkedAt": "2026-10-23T07:10:25.379121+00:00",
     "pythonTestsPassed": 77,
     "javascriptChecksPassed": 17,
     "headerChecksum": true,
