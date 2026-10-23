@@ -12,17 +12,17 @@
   "patch": {
     "file": "Kid-Icarus-DX-v1.0.ips",
     "bytes": 400605,
-    "sha256": "c7684f891392afb6594c15869ce4a4edd8a7830bdcebcc9c9ffb4ce4035325c8"
+    "sha256": "c4c4729dba2a76e5e4eeaff032ea1497537ae191e73ab7cdcee41db161561aac"
   },
   "patchedRom": {
     "bytes": 524288,
-    "sha256": "eb4c0cf86e24848c1ceef27cc33f1c417591399f4aa113540baf2233cd781dc6",
+    "sha256": "6ee612529ee5fa8636031d72898e949898e3db3e89b0f20917f8e3ed154e765d",
     "cgbOnly": true,
     "mapper": "MBC1",
     "batteryRamBytes": 8192
   },
   "validation": {
-    "checkedAt": "2026-10-23T10:50:04.326605+00:00",
+    "checkedAt": "2026-10-23T11:03:30.869126+00:00",
     "pythonTestsPassed": 77,
     "javascriptChecksPassed": 17,
     "headerChecksum": true,
