@@ -1,1 +1,1 @@
-171a2b3525c315d74c72e35a6abe8d515c2804c9cb59f0d2ed8d09ef1c13753e  Kid-Icarus-DX-v0.99.ips
+c7684f891392afb6594c15869ce4a4edd8a7830bdcebcc9c9ffb4ce4035325c8  Kid-Icarus-DX-v1.0.ips

@@ -4,7 +4,7 @@
 
 Full-color stages, enemies, bosses and inventory, optional NES music, and configurable quality-of-life options—all in a patched ROM that uses the Game Boy Color's own color hardware.
 
-**[Download the IPS patch](https://github.com/pikamus/KidIcarusDX/releases/download/v0.99/Kid-Icarus-DX-v0.99.ips)** · [Alternate download](https://raw.githubusercontent.com/pikamus/KidIcarusDX/main/patches/Kid-Icarus-DX-v0.99.ips) · **[Release notes](https://github.com/pikamus/KidIcarusDX/releases/tag/v0.99)** · **[Patching guide](PATCHING.md)**
+**[Download the IPS patch](https://github.com/pikamus/KidIcarusDX/releases/download/v1.0/Kid-Icarus-DX-v1.0.ips)** · [Alternate download](https://raw.githubusercontent.com/pikamus/KidIcarusDX/main/patches/Kid-Icarus-DX-v1.0.ips) · **[Release notes](https://github.com/pikamus/KidIcarusDX/releases/tag/v1.0)** · **[Patching guide](PATCHING.md)**
 
 <p align="center">
   <img src="images/title.png" alt="Kid Icarus DX title screen with colored logo, green stonework and an Options menu" width="480">
@@ -16,12 +16,12 @@ This fan project brings color to Pit's Game Boy adventure, with palettes for the
 
 The patch also updates scrolling transfers and sprite-palette handling for Game Boy Color, and adds an Options menu to the title screen.
 
-**Current release: v0.99 — October 23, 2026.** This is a public preview, with full playthrough and physical-hardware validation still in progress.
+**Current release: v1.0 — October 23, 2026.** The colorization is complete. Full playthrough and physical-hardware validation remain outstanding.
 
-## New in 0.99
+## New in 1.0
 
-- Fixed some doorway colors.
-- Recolored World 3 based on feedback.
+- Restored Pit’s laurel crown.
+- Finished coloring all three fortresses.
 
 ## Screenshots
 
