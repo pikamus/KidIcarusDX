@@ -33,9 +33,9 @@ The patch also updates scrolling transfers and sprite-palette handling for Game 
 | --- | --- | --- |
 | ![Fortress](images/fortress.png) | ![Sky Palace](images/sky-palace.png) | ![Options menu](images/options.png) |
 
-| Inventory and treasures | Unopened treasure packages |
-| --- | --- |
-| ![Colored pause inventory with all three treasures](images/inventory.png) | ![Colored pause inventory with unopened treasure packages](images/treasure-packages.png) |
+| Inventory and treasures |
+| --- |
+| ![Colored pause inventory with all three treasures](images/inventory.png) |
 
 Screenshots are captured from this release with **Modern – Accurate** color correction. Appearance varies with the emulator, display and color profile.
 
